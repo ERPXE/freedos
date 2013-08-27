@@ -1,0 +1,8 @@
+LABEL FREEDOS
+MENU LABEL ^FreeDOS 1.0
+KERNEL pxelinux.cfg/roms/memdisk
+INITRD er/plugins/freedos/freedos.img
+TEXT HELP
+                 FreeDOS Loader using MEMDISK.
+				 Recommedned for BIOS updates.
+ENDTEXT

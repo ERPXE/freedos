@@ -1,0 +1,4 @@
+.:
+filelist.txt
+freedos.img
+freedos.menu
